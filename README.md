@@ -15,3 +15,7 @@ prime numbers are also prime numbers modulo 1000000007.
 ## google_subarray_with_given_sum :
 Given an unsorted array A of size N of non-negative integers, 
 find a continuous sub-array which adds to a given number S.
+
+## google_maximum_index :
+Given an array A[] of N positive integers. The task is to find the maximum of j - i subjected to the constraint of A[i] <= A[j].
+Note: T(n) = O(n2) can be imroved up to O(n)
