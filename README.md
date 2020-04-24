@@ -12,4 +12,6 @@ You are given a number N. Write a program to find all the arrangements of
 the natural numbers from 1 to N in which the indices (starting from 1) of
 prime numbers are also prime numbers modulo 1000000007.
 
-## 
+## google_subarray_with_given_sum :
+Given an unsorted array A of size N of non-negative integers, 
+find a continuous sub-array which adds to a given number S.
